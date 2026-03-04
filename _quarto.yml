@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "La Trobe Sport Analytics"
+  description: "Tutorials and resources from the Masters of Sport Analytics at La Trobe University"
+  navbar:
+    background: dark
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Tutorials
+        href: tutorials/index.qmd
+  page-footer:
+    center: "La Trobe University | Masters of Sport Analytics"
+
+format:
+  html:
+    theme: flatly
+    toc: true
+    toc-depth: 3
+    code-tools: true
+    code-overflow: wrap
+
+execute:
+  freeze: auto

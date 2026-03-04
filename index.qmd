@@ -1,0 +1,22 @@
+---
+title: "La Trobe Sport Analytics"
+subtitle: "Masters of Sport Analytics | La Trobe University"
+page-layout: full
+---
+
+## Welcome
+
+This site hosts tutorials and resources from the **Masters of Sport Analytics** program at La Trobe University. Each tutorial walks through a real-world sport analytics problem using R, covering data access, wrangling, visualisation, and modelling.
+
+Browse the [Tutorials](tutorials/index.qmd) to get started.
+
+## What You Will Find Here
+
+- Step-by-step coding tutorials using real sport data
+- Interactive visualisations and animations
+- Techniques used by professional sport analysts
+- Resources spanning multiple sports and analytical methods
+
+## About the Program
+
+The Masters of Sport Analytics at La Trobe University prepares graduates for careers in professional sport, combining statistical modelling, data science, and domain expertise in sport performance.

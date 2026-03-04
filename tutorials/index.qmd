@@ -1,0 +1,11 @@
+---
+title: "Tutorials"
+listing:
+  contents: "*/index.qmd"
+  type: grid
+  sort: "date desc"
+  categories: true
+  fields: [title, subtitle, date, categories, image]
+---
+
+Browse our collection of sport analytics tutorials. Each tutorial uses real data and walks through the analysis step by step.
